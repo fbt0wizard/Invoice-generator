@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "username": "root",
+    "password": "",
+    "db_name": "murat",
+    "jwtSecret": "mysecreettoken"
+}

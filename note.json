@@ -1,0 +1,14 @@
+{
+  "company": "Future Basic Tech",
+  "status": "CEO",
+  "website": "https://www.fbt.com",
+  "skills": "HTML, JavaScript, PHP, NodeJs, ReactJs, Python, NextJs",
+  "location": "Lagos Nigeria",
+  "bio": "I am a developer and instuctor for fbt",
+  "githubusername": "fbt0wizard",
+  "twitter": "https://twitter.com/fbt_wizard",
+  "facebook": "https://facebook.com/fbt_wizard",
+  "youtube": "https://youtube.com/fbt_wizard",
+    "githubSecret": "fa9019286975503e78e77d39e3d19cc2387d97f1"
+
+}
